@@ -37,8 +37,9 @@ p {
 
 a {
     text-align: center;
-    margin: 20px,
+    margin: 20px auto,
     padding: 0px auto;
+    border: 5px;
 }
 
 #video {
