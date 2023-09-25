@@ -43,4 +43,12 @@ a {
 
 #video {
         text-align: center;
+        margin: 0px auto;
+        padding: 0px auto;
+}
+
+.video {
+    text-align: center;
+    margin: 0px auto;
+    padding: 0px auto;
 }
