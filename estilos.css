@@ -28,6 +28,7 @@ p {
     font-family: 'Mooli', sans-serif;
     margin: 0px auto;
     padding: 15px;
+    border: 5px;
 
 #titulo {
     text-align: center;
