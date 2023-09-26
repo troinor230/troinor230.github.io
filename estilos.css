@@ -26,6 +26,8 @@ p {
     text-align: center;
     font-size: 20px;
     font-family: 'Mooli', sans-serif;
+    margin: 0px auto;
+    padding: 15px;
 
 #titulo {
     text-align: center;
