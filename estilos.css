@@ -1,4 +1,5 @@
 /* Place your CSS styles in this file */
+/* Place your CSS styles in this file */
 
 h1 {
     text-align: center;
@@ -29,30 +30,39 @@ p {
     margin: 0px auto;
     padding: 15px;
     border: 5px;
+}
 
 #titulo {
     text-align: center;
-    border: 5px black;
+    border: 5px;
     padding: 0px auto;
     margin: 15px;
 }
-
 
 a {
     text-align: center;
     margin: 20px auto;
     padding: 0px auto;
     border: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: yellow;
 }
 
 #video {
-        text-align: center;
-        margin: 0px auto;
-        padding: 0px auto;
+    text-align: center;
+    margin: 0px auto;
+    padding: 0px auto;
 }
 
 .video {
     text-align: center;
     margin: 0px auto;
     padding: 0px auto;
+}
+
+body {
+    background-color: rgb(255, 192, 203);
 }
